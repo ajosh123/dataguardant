@@ -1,0 +1,33 @@
+{
+    "food":[
+        { "id":1,
+        "title":"paruppuvada",
+        "image":"https://i.postimg.cc/MpBShY3N/Layer-11.png",
+        "amount":15
+
+    },
+    {
+        "id":2,
+        "title":"Pazhampori",
+        "image":"https://i.postimg.cc/X78HXBGq/Layer-13.png",
+        "amount":15
+    },
+    {
+        "id":3,
+        "title":"Pazhampori",
+        "image":"https://i.postimg.cc/pTrx1MwY/Layer-14.png",
+        "amount":15 
+    },{
+        "id":4,
+        "title":"Pazhampori",
+        "image":"https://i.postimg.cc/X78HXBGq/Layer-13.png",
+        "amount":15
+    },{
+        "id":6,
+        "title":"Pazhampori",
+        "image":"https://i.postimg.cc/X78HXBGq/Layer-13.png",
+        "amount":15
+    }
+    ]
+      
+}
